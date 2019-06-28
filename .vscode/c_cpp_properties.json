@@ -1,0 +1,64 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/CMSIS/Include",
+                "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/CMSIS/Device/ST/STM32F1xx/Include",
+                "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/STM32F1xx_HAL_Driver/Inc",
+                "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/Common",
+                "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/ak4343",
+                "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/cs43l22",
+                "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/hx8347d",
+                "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/ili9320",
+                "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/ili9325",
+                "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/lis302dl",
+                "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/spfd5408",
+                "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/st7735",
+                "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/stlm75",
+                "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/stmpe811",
+                "C:/Users/steelph0enix/.platformio/packages/tool-unity",
+                "d:/STM32/Projects/HelloSTM/Inc",
+                "d:/STM32/Projects/HelloSTM/Src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "${workspaceRoot}/.vscode/.browse.c_cpp.db",
+                "path": [
+                    "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/CMSIS/Include",
+                    "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/CMSIS/Device/ST/STM32F1xx/Include",
+                    "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/STM32F1xx_HAL_Driver/Inc",
+                    "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/Common",
+                    "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/ak4343",
+                    "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/cs43l22",
+                    "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/hx8347d",
+                    "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/ili9320",
+                    "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/ili9325",
+                    "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/lis302dl",
+                    "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/spfd5408",
+                    "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/st7735",
+                    "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/stlm75",
+                    "C:/Users/steelph0enix/.platformio/packages/framework-stm32cube/f1/Drivers/BSP/Components/stmpe811",
+                    "C:/Users/steelph0enix/.platformio/packages/tool-unity",
+                    "d:/STM32/Projects/HelloSTM/Inc",
+                    "d:/STM32/Projects/HelloSTM/Src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=30607",
+                "STM32F103xB",
+                "USE_HAL_DRIVER",
+                "F_CPU=72000000L",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "\"C:/Users/steelph0enix/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe\" -mthumb -mcpu=cortex-m3"
+        }
+    ],
+    "version": 4
+}
